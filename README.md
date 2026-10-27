@@ -1,6 +1,6 @@
 # Hi, I'm Umair Ahmed 👋
 
-**Aspiring SOC Analyst | CompTIA Security+ | TryHackMe + LetsDefend**  
+**Aspiring SOC Analyst | CompTIA Security+ (in progress) | TryHackMe + LetsDefend**  
 📍 Based in Italy
 
 I'm building the skills for my first **SOC Analyst (Level 1)** role through a structured 30-week learning plan. I document every lab, investigation and lesson in public.
