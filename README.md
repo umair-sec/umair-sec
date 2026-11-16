@@ -3,6 +3,8 @@
 **Aspiring SOC Analyst | CompTIA Security+ (in progress) | TryHackMe + LetsDefend**  
 📍 Based in Italy
 
+**Currently:** preparing for CompTIA Security+ (in preparation) · available for SOC L1 internships / stage in early 2027
+
 I'm building the skills for my first **SOC Analyst (Level 1)** role through a structured 30-week learning plan. I document every lab, investigation and lesson in public.
 
 ---
@@ -27,7 +29,7 @@ I'm building the skills for my first **SOC Analyst (Level 1)** role through a st
 **[cybersecurity-journey](https://github.com/umair-sec/cybersecurity-journey)**: my 30-week SOC Analyst journey, with lab write-ups (TryHackMe, LetsDefend, Splunk home lab) and weekly progress logs.
 
 ### 🤝 Connect
-- LinkedIn: [linkedin.com/in/umair-ahmed-063a03426](https://www.linkedin.com/in/umair-ahmed-063a03426)
+- LinkedIn: [linkedin.com/in/umair-ahmed-soc](https://www.linkedin.com/in/umair-ahmed-soc)
 
 ---
 *"Consistency > perfection."*
